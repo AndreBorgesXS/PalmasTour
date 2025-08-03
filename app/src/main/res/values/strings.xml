@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">PalmasTour</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PalmasTour</string>
+    <string name="nav_header_subtitle">Explore Palmas</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Capturar</string>
+    <string name="menu_gallery">Localizações</string>
+    <string name="menu_slideshow">Fotos</string>
+    
+    <!-- Home Fragment -->
+    <string name="capture_location">Capturar Localização</string>
+    <string name="take_photo">Tirar Foto</string>
+    <string name="save_work">Salvar Trabalho</string>
+    <string name="location_saved">Localização salva com sucesso!</string>
+    <string name="photo_saved">Foto salva com sucesso!</string>
+    <string name="work_saved">Trabalho salvo com sucesso!</string>
+    <string name="error_loading_location">Erro ao carregar localização</string>
+    <string name="error_saving_location">Erro ao salvar localização</string>
+    <string name="error_saving_photo">Erro ao salvar foto</string>
+    <string name="error_saving_work">Erro ao salvar trabalho</string>
+    
+    <!-- Gallery Fragment -->
+    <string name="locations_title">Localizações Salvas</string>
+    <string name="no_locations">Nenhuma localização encontrada</string>
+    
+    <!-- Slideshow Fragment -->
+    <string name="photos_title">Fotos da Localização</string>
+    <string name="no_photos">Nenhuma foto encontrada</string>
+    <string name="error_loading_photos">Erro ao carregar fotos</string>
+    <string name="edit_location">Editar</string>
+    <string name="edit_location_title">Editar Localização</string>
+    <string name="edit_photo">Editar</string>
+    <string name="delete_photo">Excluir</string>
+    <string name="edit_photo_description_title">Editar Descrição</string>
+    <string name="photo_description_updated">Descrição atualizada</string>
+    <string name="photo_deleted">Foto excluída com sucesso</string>
+    <string name="error_deleting_photo">Erro ao excluir foto</string>
+    <string name="error_updating_photo_description">Erro ao atualizar descrição</string>
+    <string name="confirm_delete_title">Confirmar exclusão</string>
+    <string name="confirm_delete_message">Tem certeza que deseja excluir esta foto?</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="location_updated">Localização atualizada com sucesso</string>
+    <string name="error_updating_location">Erro ao atualizar localização</string>
+    <string name="empty_name_error">O nome não pode estar vazio</string>
+    <string name="location_not_found">Localização não encontrada</string>
+    <string name="location_id_not_available">ID da localização não disponível</string>
+    
+    <!-- Permissions -->
+    <string name="permission_location_rationale">Precisamos de acesso à sua localização para marcar onde você está.</string>
+    <string name="permission_camera_rationale">Precisamos de acesso à câmera para tirar fotos.</string>
+    <string name="permission_storage_rationale">Precisamos de acesso ao armazenamento para salvar as fotos.</string>
+    <string name="permission_denied">Permissão negada. Algumas funcionalidades podem não funcionar corretamente.</string>
+    
+    <!-- API Keys -->
+    <string name="google_maps_key">AIzaSyAImbqE9zFx2wZgDbvIBPRnc9gsQx0UYF0</string>
+    <string name="supabase_url">https://ysiijjiczzeyyfagckqm.supabase.co</string>
+    <string name="supabase_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlzaWlqamljenpleXlmYWdja3FtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTAyNDE5NDUsImV4cCI6MjA2NTgxNzk0NX0.6cu0hhWencnP-lkAZ-MAPh-3PZngAS7Upo8qCk9CcGY</string>
+    <string name="error_loading_locations">Erro ao carregar localizações</string>
+    <string name="delete_location">Excluir</string>
+    <string name="confirm_delete_location_title">Confirmar exclusão</string>
+    <string name="confirm_delete_location_message">Tem certeza que deseja excluir esta localização? Todas as fotos associadas também serão excluídas.</string>
+    <string name="location_deleted">Localização excluída com sucesso</string>
+    <string name="error_deleting_location">Erro ao excluir localização</string>
+</resources>
