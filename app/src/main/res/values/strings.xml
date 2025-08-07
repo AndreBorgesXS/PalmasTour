@@ -57,9 +57,9 @@
     <string name="permission_denied">Permissão negada. Algumas funcionalidades podem não funcionar corretamente.</string>
     
     <!-- API Keys -->
-    <string name="google_maps_key">AIzaSyAImbqE9zFx2wZgDbvIBPRnc9gsQx0UYF0</string>
-    <string name="supabase_url">https://ysiijjiczzeyyfagckqm.supabase.co</string>
-    <string name="supabase_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlzaWlqamljenpleXlmYWdja3FtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTAyNDE5NDUsImV4cCI6MjA2NTgxNzk0NX0.6cu0hhWencnP-lkAZ-MAPh-3PZngAS7Upo8qCk9CcGY</string>
+    <string name="google_maps_key">ADAdSFDSGFDGJHJGKIULYHKH</string>
+    <string name="supabase_url">https://fgdfhjhgkjhlhhjklk.supabase.co</string>
+    <string name="supabase_key">SAFgfgfdhgFSAhgfFgfgghfSFdgggfgfE3NTAyNDE5NDUfhgfsImV4cCI6MjA2NTgxNzk0NX0.6cu0hhWencnP-lkAZ-MAPh-3PZngAS7Ughgfkuikiolpo8qCkghjhjyf51d5dr9CcGY</string>
     <string name="error_loading_locations">Erro ao carregar localizações</string>
     <string name="delete_location">Excluir</string>
     <string name="confirm_delete_location_title">Confirmar exclusão</string>
